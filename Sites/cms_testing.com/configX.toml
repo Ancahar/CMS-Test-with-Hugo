@@ -1,0 +1,4 @@
+baseURL = "http://cms_testing.com"
+languageCode = "en-us"
+title = "Hugo | CMS Testing"
+theme ="hugo-tracks-theme-master"
